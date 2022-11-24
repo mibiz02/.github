@@ -117,6 +117,7 @@
 <br />
 
 # 🎈 Figjam
-[👉 MOVIZ Figjam 바로가기](#https://www.figma.com/file/yazPCuFZAQCiFWO3wRFkJi/MIBIZ?t=Gk6woO8XvC9TAAHk-0)
+https://www.figma.com/file/yazPCuFZAQCiFWO3wRFkJi/MIBIZ?node-id=211%3A632&t=dE6vnDEQlEfpn2jq-0
+
 # 📑 Notion
-[👉 MOVIZ Notion 바로가기](#https://www.notion.so/MIBIZ-MBTI-c2ec7afaa27649bf8fb37eb61dce32d4)
+https://www.notion.so/MIBIZ-MBTI-c2ec7afaa27649bf8fb37eb61dce32d4
